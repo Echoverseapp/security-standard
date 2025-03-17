@@ -20,7 +20,7 @@
 
 ## 4. Reporting and Support
 
-- **Email:** team@echosocial.com
+- **Email:** kevincori98@gmail.com
 - **Maximum response time:** 24 hours
 - **Collaboration:** Direct with competent authorities
 
